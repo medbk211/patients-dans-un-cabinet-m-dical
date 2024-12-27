@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715030815 source:e:\l1_info2\algorithmique\liste_semplement_chainee\patients dans un cabinet médical\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
